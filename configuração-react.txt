@@ -1,0 +1,9 @@
+20:56 15/07/2019Configuração react js
+Passo 1 
+npx create-react-app + nome da pasta
+Passo 2 
+entrar na pasta criada... cd pasta
+Passo 3
+Abrir programa code . 
+passo 4 
+npm start

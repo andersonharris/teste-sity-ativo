@@ -1,0 +1,19 @@
+.btn-primary{
+    background-color: #75BFD1;
+    border-color: #75BFD1;
+    letter-spacing: 2px;
+}
+.btn-primary:hover{
+   background-color: #5EA9BA;
+   border-color: #5EA9BA;
+}
+.nav-item:hover{
+    background-color: #75BFD1;
+    border-radius: 3px;
+    color: white;
+}
+span{
+    color: #75BFD1;
+    font-weight: bold;
+}
+

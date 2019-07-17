@@ -1,0 +1,21 @@
+.sectionapp-h3{
+    color: #4876FF;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.fa-shipping-fast{
+    font-size: 50px;
+    color: #75BFD1;
+}
+.fa-user-check{
+    font-size: 50px;
+    color: #75BFD1;
+}
+.fa-tachometer-alt{
+    font-size: 50px;
+    color: #75BFD1;
+}
+.card:hover{
+    background-color: rgb(49, 49, 212);
+    color: white;
+}
